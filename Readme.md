@@ -36,6 +36,10 @@ The main objective of this project was to understand:
 
 # Architecture Overview
 
+## Architecture Diagram
+
+![Production Mail Architecture](screenshots/Production-Grade-Mailcow-SES-Architecture.png)
+
 ## Core Components
 
 | Component         | Purpose                 |
