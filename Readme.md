@@ -33,12 +33,13 @@ The main objective of this project was to understand:
 * Cloud provider SMTP restrictions
 
 ---
+## Architecture Diagram
 
-# Architecture Overview
+![Enterprise Mail Architecture](architecture%20diagram/Enterprise-Mailcow-SES-Mail-Architecture.png)
 
 ## Architecture Diagram
 
-![Production Mail Architecture](screenshots/Production-Grade-Mailcow-SES-Architecture.png)
+
 
 ## Core Components
 
